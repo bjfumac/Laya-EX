@@ -1,10 +1,12 @@
 # Laya-EX
-An extension for LayaAir(LayaBox).
+An extension for LayaAir(LayaBox) V2.X (V1 in branch)
 
 # 说明
 | 目录  | 描述 | 
 | - | - | 
 | minigame | 微信小游戏相关|
+| ScreenAdapter | UI适配|
+
 
 ### 本人QQ:68552233 （反馈问题可联系）
 
