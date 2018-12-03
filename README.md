@@ -6,6 +6,7 @@ An extension for LayaAir(LayaBox) V2.X (V1 in branch)
 | - | - | 
 | minigame | 微信小游戏相关|
 | ScreenAdapter | UI适配|
+| Promise | 支持Promise|
 
 
 ### 本人QQ:68552233 （反馈问题可联系）
