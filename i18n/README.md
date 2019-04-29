@@ -1,5 +1,6 @@
 # Laya多语言模块，这是魔改版，原版不能在Laya中使用
 ## 加载多语言包
+```javascript
 i18next.init(
     {
         lng: 'zh-CN',
@@ -11,9 +12,10 @@ i18next.init(
 ).then(()=>{
     
 });
-
+```
 ## 调用多语言文本
+```javascript
 const str = i18next.t('key');
-
+```
 ## 其它用法
 https://github.com/i18next/i18next
